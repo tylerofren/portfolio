@@ -20,7 +20,7 @@ export default function Home() {
                     </span>
                 </a>
                 <a
-                    href="https://github.com/tylerofren"
+                    href="https://github.com/tylerofreneo"
                     className="group text-md font-semibold"
                     target="_blank"
                     rel="noopener noreferrer"
